@@ -75,5 +75,5 @@ fig2 = sns.displot(df_returns['MSreturns'].loc['2015-01-01':'2015-12-31'], kde=T
 # ** Create a line plot showing Close price for each bank for the entire index of time.
 # (Hint: Try using a for loop, or use .xs to get a cross section of the data.)**
 fig3 = sns.lineplot(data = bank_stocks.xs(key='Close', axis=1, level='Stock Info'))
-plt.show()
+# plt.show()
 
