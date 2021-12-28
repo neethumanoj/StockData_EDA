@@ -1,1 +1,1 @@
-# StockData_EDA
+#Explaratory Data Analysis of Stock Prices
