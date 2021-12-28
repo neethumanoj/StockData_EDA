@@ -1,1 +1,1 @@
-#Explaratory Data Analysis of Stock Prices
+Explaratory Data Analysis of Stock Prices
